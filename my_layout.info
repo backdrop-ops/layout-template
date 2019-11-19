@@ -1,6 +1,6 @@
+type = layout
 name = My Layout
 backdrop = 1.x
-type = layout
 
 regions[header] = Header
 regions[content] = Content
