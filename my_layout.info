@@ -1,0 +1,10 @@
+name = My Layout
+backdrop = 1.x
+type = layout
+
+regions[header] = Header
+regions[content] = Content
+regions[footer] = Footer
+
+;file = my_layout.php
+;stylesheets[all][] = my_layout.css
